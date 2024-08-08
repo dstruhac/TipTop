@@ -1,3 +1,3 @@
 export default function Page() {
-    return <p>Customer Page</p>;
+    return <p className='font-bold'>Customer Page</p>;
 }
